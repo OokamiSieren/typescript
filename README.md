@@ -1,1 +1,2 @@
 # typescript
+Practice learning typescript
